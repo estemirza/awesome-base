@@ -91,6 +91,10 @@ and more.
   crypto rails. Enable faster trading, better prices and superior UX in your
   app.
 
+- **[0xKeep](https://0x-keep.xyz/)**: 0xKeep is an immutable, non-custodial
+  locker for ERC-20 and LP tokens with linear vesting. No admin keys, no
+  upgrades. Free to use on Base.  
+
 - **[Aave](https://app.aave.com)**: Aave Protocol is a non-custodial liquidity
   protocol. Users can participate as suppliers, borrowers, or liquidators,
   earning interest on supplied assets and borrowing in an overcollateralized
